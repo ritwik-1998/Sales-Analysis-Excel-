@@ -4,7 +4,7 @@
 ## Project Overview
 Developed an analytical dashboard in Excel using Power Pivot, data modeling, and DAX to analyze sales data from FNP (Ferns N Petals), a company specializing in gift delivery for various occasions. The project aimed to uncover key insights related to sales trends, customer behavior, and product performance by leveraging data on products, orders, customers, and dates.
 
-![image_alt](
+![image_alt](https://github.com/ritwik-1998/Sales-Analysis-Excel-/blob/main/Screenshot%202025-03-18%20165156.png?raw=true)
 
 
 
